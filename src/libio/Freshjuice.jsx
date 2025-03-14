@@ -40,7 +40,7 @@ export default function Freshjuice() {
       <div className=" ">
        <img  className=" w-[600px] rounded-2xl" src={img22} alt="" />
 
-       <img  className="  w-[600px] rounded-2xl" src={img22} alt="" />
+      
 
       </div>
       <div className=" ">
@@ -59,24 +59,7 @@ export default function Freshjuice() {
       <div className=" ">
         <img  className="w-[600px] rounded-2xl" src={img27} alt="" />
       </div>
-      <div className=" ">
-        <img  className="w-[600px]  rounded-2xl" src={img27} alt="" />
-
-        <img  className=" w-[600px] rounded-2xl" src={img24} alt="" />
-      </div>
-      <div className=" ">
-        <img  className=" w-[600px] rounded-2xl" src={img25} alt="" />
-      </div>
-      <div className=" ">
-        <img  className=" w-[600px] rounded-2xl" src={img26} alt="" />
-      </div>
-      <div className=" ">
-        <img  className=" w-[600px] rounded-2xl" src={img27} alt="" />
-      </div>
-      <div className=" ">
-        <img  className=" w-[600px] rounded-2xl" src={img27} alt="" />
-
-      </div>
+    
       
       
       
