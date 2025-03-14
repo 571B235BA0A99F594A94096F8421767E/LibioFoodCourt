@@ -48,7 +48,7 @@ function Milkshakes({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price₹100
             <CustomizedDialogs />
           </div>
         </div>
@@ -66,7 +66,7 @@ function Milkshakes({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price₹100
             <CustomizedDialogs/>
           </div>
         </div>
@@ -84,7 +84,7 @@ function Milkshakes({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price₹100
             <CustomizedDialogs/>
           </div>
         </div>
@@ -102,7 +102,7 @@ function Milkshakes({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price₹100
             <CustomizedDialogs/>
           </div>
         </div>
@@ -120,7 +120,7 @@ function Milkshakes({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price₹100
             <CustomizedDialogs/>
           </div>
         </div>
@@ -138,7 +138,7 @@ function Milkshakes({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price₹100
             <CustomizedDialogs/>
           </div>
         </div>
@@ -157,7 +157,7 @@ function Milkshakes({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price₹100
             <CustomizedDialogs/>
           </div>
         </div>
@@ -175,7 +175,7 @@ function Milkshakes({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price₹100
             <CustomizedDialogs/>
           </div>
         </div>
