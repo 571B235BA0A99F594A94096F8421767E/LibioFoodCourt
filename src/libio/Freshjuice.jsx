@@ -59,6 +59,9 @@ export default function Freshjuice() {
       <div className=" ">
         <img  className="w-[600px] rounded-2xl" src={img27} alt="" />
       </div>
+       <div className=" ">
+        <img  className="w-[600px] rounded-2xl" src={img28} alt="" />
+      </div>
     
       
       
