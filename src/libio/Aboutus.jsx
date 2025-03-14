@@ -5,10 +5,10 @@ import viedeo1 from '../assets/cardimg/aboutus/video2.mp4'
 import viedeo2 from '../assets/cardimg/aboutus/video.mp4'
 function Aboutus() {
   return (
-    <div className="   mt-2 container mx-auto  ">
+    <div className="    container mx-auto  ">
       <div className="z-10 relative ">
         <img
-          className=" w-full h-full md:w-full opacity-90 md:h-[700px] rounded-xl "
+          className=" w-full h-full md:w-full opacity-90 md:h-[700px]  "
           src={img1}
           alt=""
         />
