@@ -52,7 +52,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $70
+            Price ₹70
             <CustomizedDialogs/>
           </div>
         </div>
@@ -70,7 +70,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -88,7 +88,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $70
+            Price ₹70
             <CustomizedDialogs/>
           </div>
         </div>
@@ -107,7 +107,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -125,7 +125,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $70
+            Price ₹70
             <CustomizedDialogs/>
           </div>
         </div>
@@ -143,7 +143,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $70
+            Price ₹70
             <CustomizedDialogs/>
           </div>
         </div>
@@ -161,7 +161,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -179,7 +179,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -197,7 +197,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $70
+            Price ₹70
             <CustomizedDialogs/>
           </div>
         </div>
@@ -215,7 +215,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price ₹100
             <CustomizedDialogs/>
           </div>
         </div>
@@ -234,7 +234,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $100
+            Price ₹100
             <CustomizedDialogs/>
           </div>
         </div>
@@ -252,7 +252,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -270,7 +270,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -288,7 +288,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -306,7 +306,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -325,7 +325,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $50
+            Price ₹50
             <CustomizedDialogs/>
           </div>
         </div>
@@ -343,7 +343,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $80
+            Price ₹80
             <CustomizedDialogs/>
           </div>
         </div>
@@ -363,7 +363,7 @@ function Fiedrice({scroll}) {
             <CustomizedRating />
           </div>
           <div className="flex justify-between mx-3 mb-5">
-            Price $30
+            Price ₹30
             <CustomizedDialogs/>
           </div>
         </div>
