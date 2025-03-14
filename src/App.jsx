@@ -4,7 +4,7 @@ import Card from "./libio/Card";
 import Simpleslider from "./libio/Slider"; 
 import Footer from "./libio/Footer";
 import  LabTabs from "./libio/Tabs"
-import { BrowserRouter,Routes,Route} from "react-router-dom";
+import {HashRouter,Routes,Route} from "react-router-dom";
 
 import Aboutus from "./libio/Aboutus";
 
@@ -30,7 +30,7 @@ navRef.current.scrollIntoView({behavior:'smooth'})
            <div>
       
             
-            <BrowserRouter>
+            <HashRouter>
                 <div ref={navRef} >
             <Navbar /></div>
            
@@ -57,7 +57,7 @@ navRef.current.scrollIntoView({behavior:'smooth'})
 
             
 
-            </BrowserRouter>  
+            </HashRouter>  
            
           </div>    
   )
