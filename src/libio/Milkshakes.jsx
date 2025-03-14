@@ -57,33 +57,8 @@ export default function Milkshake() {
       </div>
       <div className="">
         <img  className=" w-[600px] rounded-2xl" src={img52} alt="" />
-
-        <img  className=" W-[600px]   rounded-2xl"  src={img45} alt="" />
+ 
       </div>
-      <div className="">
-       <img  className="   W-[600px] rounded-2xl" src={img46} alt="" />
-      </div>
-      <div className="">
-       <img  className="  W-[600px] rounded-2xl" src={img47} alt="" />
-      </div>
-      <div className="">
-        <img  className="  W-[600px] rounded-2xl" src={img48} alt="" />
-      </div>
-      <div className="">
-        <img  className="  W-[600px] rounded-2xl" src={img49} alt="" />
-      </div>
-      <div className="">
-        <img  className="  W-[600px] rounded-2xl" src={img50} alt="" />
-      </div>
-      <div className="">
-        <img  className="  W-[600px] rounded-2xl" src={img51} alt="" />
-      </div>
-      <div className="">
-        <img  className="  W-[600px]  rounded-2xl" src={img52} alt="" />
-
-      </div>
-      
-      
       
     </Slider>
     </div> 
